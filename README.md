@@ -10,7 +10,7 @@ StonedFragger's Python MultiHack Tool v1 for Arma 3 and CounterStrike Global Off
 
 # Windows:
 - Create a folder and put all the files in it
-- Open CMD and navigate to that folder
+- Open CMD in that folder
 - start.py
 
 # Linux:
