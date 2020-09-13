@@ -3,8 +3,8 @@ StonedFragger's Python MultiHack Tool v1 for Arma 3 and CounterStrike Global Off
 ##############################################################################################
 
 # Prerequisites
-Arma 3 and or CSGO
-Python 3
+- Arma 3 and or CSGO
+- Python 3
 
 # Instructions
 
